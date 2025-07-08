@@ -5,4 +5,5 @@ print('Calculo de desconto')
 valorProduto = float(input('Digite o valor do produto com decimal: '))
 valorDesconto = 0.10
 valorComDesconto=(valorProduto*valorDesconto)
+addicionar aubtração do desconto
 print(f'O valor do produto ficou: {valorComDesconto}')
