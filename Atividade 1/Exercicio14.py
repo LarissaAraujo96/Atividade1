@@ -4,5 +4,7 @@
 print('Maior número')
 numero1 = float(input('Digite um número: '))
 numero2 = float(input('Digite outro múmero: '))
-if numero1 > numero2:
-    print('O número é maior!')
+if numero1>numero2:
+    print(f'O maior numero é{numero1}')
+else:
+    print(f'O maior valor é {numero2}')
